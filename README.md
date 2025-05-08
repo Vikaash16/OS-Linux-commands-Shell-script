@@ -3,9 +3,9 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## Name: ELAMUKILAN G 
-## Roll no: 212223040045
-## Dept: CSE
+## Name: Vikaash P
+## Reg no: 212223240180
+## Dept: AI&ML
 
 # AIM:
 To practice Linux Commands and Shell Scripting
