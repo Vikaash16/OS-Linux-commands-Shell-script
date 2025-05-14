@@ -1,6 +1,6 @@
 
 # OS-Linux-commands-Shell-scripting
-Operating systems Lab exercise
+Operating system Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 ## Name: Vikaash P
